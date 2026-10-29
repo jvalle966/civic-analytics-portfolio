@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - jvalle_resume.pdf
+    - FinalProject_ValleJ_PA470.pdf
 
 website:
   title: "Justin Valle"

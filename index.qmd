@@ -1,9 +1,36 @@
 ---
 title: "Justin Valle"
+image: profile.jpg
 format: html
 editor: visual
+about:
+  template: jolla
+  image-shape: round
+  image-width: 15em
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto: justinmv966@gmail.com
+    - text: GitHub
+      icon: github
+      href: https://github.com/jvalle966
+    - text: Resume
+      icon: file-text
+      href: jvalle_resume.pdf
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/justin-valle-165857221/
 ---
 
+I am a Master of Science in Civic Analytics student
+at the University of Illinois Chicago with an interest
+in using data to address challenges in public service.
+My experience includes quantitative research, data
+analysis, and communicating findings through data
+visualization. I am particularly interested in
+transportation, civic technology, and data-informed
+decision-making. My goal is to make complex information
+accessible and useful to organizations and communities.
 ## Quarto
 
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
