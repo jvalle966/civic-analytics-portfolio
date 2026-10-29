@@ -16,5 +16,12 @@ website:
 
 format:
   html:
-    theme: cosmo
-    toc: true
+    theme: cosmo # I chose the cosmo theme because it has character 
+    # but still looks professional
+    fontsize: 1.1rem
+    fontcolor: "#29332E" # I chose charcoal green because its adds character
+    # over a pure black and it remains clean and formal
+    linkcolor: "#244B3C" # I chose forest green because it is a color I enjoy and
+    # and adds a monochromatic accent 
+    backgroundcolor: "#F2F4F1" # I made the background light gray so the 
+    # text still contrasts
