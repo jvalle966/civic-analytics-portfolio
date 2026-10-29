@@ -10,7 +10,7 @@ about:
   links:
     - text: Email
       icon: envelope
-      href: mailto: justinmv966@gmail.com
+      href: mailto:justinmv966@gmail.com
     - text: GitHub
       icon: github
       href: https://github.com/jvalle966
